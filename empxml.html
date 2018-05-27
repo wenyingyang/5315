@@ -19,7 +19,6 @@
              $(xml).find('data').each(function(){  
               t.row.add( [
                 var OrderDate = $(this).find('OrderDate').text(),
-                var Region = $(this).find('Region').text(),
                 var Rep = $(this).find('Rep').text(),
                 var Item = $(this).find('Item').text(),
                 var Units = $(this).find('Units').text(),
@@ -38,7 +37,6 @@
     <thead>
         <tr>
               <th>OrderDate</th>
-              <th>Region</th>
               <th>Rep</th>
               <th>Item</th>
               <th>Units</th>
@@ -50,7 +48,6 @@
     <tfoot>
         <tr>
               <th>OrderDate</th>
-              <th>Region</th>
               <th>Rep</th>
               <th>Item</th>
               <th>Units</th>
