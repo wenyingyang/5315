@@ -1,131 +1,124 @@
 {
   "data": [
     {
-      "OrderDate": "1/6/2016",
-      "Rep": "Jones",
-      "Item": " Pencil",
-      "Units": "95",
-      "UnitCost": "1.99",
-      "Total": "189.05"
+      "orderdate": "1/6/2016",
+      "rep": "Jones",
+      "item": " Pencil",
+      "units": "95",
+      "unitcost": "1.99",
+      "total": "189.05"
     },
     {
-      "OrderDate": "1/23/2016",
-      "Rep": "Kivell",
-      "Item": "Binder",
-      "Units": "50",
-      "UnitCost": "19.99",
-      "Total": "999.50"
+      "orderdate": "1/23/2016",
+      "rep": "Kivell",
+      "item": "Binder",
+      "units": "50",
+      "unitcost": "19.99",
+      "total": "999.50"
     },
     {
-      "OrderDate": "2/9/2016",
-      "Rep": "Jardine",
-      "Item": "Pencil",
-      "Units": "36",
-      "UnitCost": "4.99",
-      "Total": "179.64"
-
+      "orderdate": "2/9/2016",
+      "rep": "Jardine",
+      "item": "Pencil",
+      "units": "36",
+      "unitcost": "4.99",
+      "total": "179.64"
     },
     {
-      "OrderDate": "2/26/2016",
-      "Rep": "Gill",
-      "Item": "Pen",
-      "Units": "27",
-      "UnitCost": "19.99",
-      "Total": "539.73"
-
+      "orderdate": "2/26/2016",
+      "rep": "Gill",
+      "item": "Pen",
+      "units": "27",
+      "unitcost": "19.99",
+      "total": "539.73"
     },
     {
-      "OrderDate": "3/15/2016",
-      "Rep": "Sorvino",
-      "Item": "Pencil",
-      "Units": "56",
-      "UnitCost": "2.99",
-      "Total": "167.44"
-
+      "orderdate": "3/15/2016",
+      "rep": "Sorvino",
+      "item": "Pencil",
+      "units": "56",
+      "unitcost": "2.99",
+      "total": "167.44"
     },
     {
-      "OrderDate": "4/1/2016",
-      "Rep": "Jones",
-      "Item": "Binder",
-      "Units": "60",
-      "UnitCost": "4.99",
-      "Total": "299.40"
-
+      "orderdate": "4/1/2016",
+      "rep": "Jones",
+      "item": "Binder",
+      "units": "60",
+      "unitcost": "4.99",
+      "total": "299.40"
     },
     {
-      "OrderDate": "5/5/2016",
-      "Rep": "Jardine",
-      "Item": "Pencil",
-      "Units": "90",
-      "UnitCost": "4.99",
-      "Total": "449.10"
-
+      "orderdate": "5/5/2016",
+      "rep": "Jardine",
+      "item": "Pencil",
+      "units": "90",
+      "unitcost": "4.99",
+      "total": "449.10"
     },
     {
-      "OrderDate": "4/18/2016",
-      "Rep": "Andrews",
-      "Item": "Pencil",
-      "Units": "75",
-      "UnitCost": "1.99",
-      "Total": "149.25"
-
+      "orderdate": "4/18/2016",
+      "rep": "Andrews",
+      "item": "Pencil",
+      "units": "75",
+      "unitcost": "1.99",
+      "total": "149.25"
     },
     {
-      "OrderDate": "5/22/2016",
-      "Rep": "Thompson",
-      "Item": "Pencil",
-      "Units": "32",
-      "UnitCost": "1.99",
-      "Total": "63.68"
-
+      "orderdate": "5/22/2016",
+      "rep": "Thompson",
+      "item": "Pencil",
+      "units": "32",
+      "unitcost": "1.99",
+      "total": "63.68"
     },
     {
-      "OrderDate": "6/8/2016",
-      "Rep": "Jones",
-      "Item": "Binder",
-      "Units": "60",
-      "UnitCost": "8.99",
-      "Total": "539.40"
+      "orderdate": "6/8/2016",
+      "rep": "Jones",
+      "item": "Binder",
+      "units": "60",
+      "unitcost": "8.99",
+      "total": "539.40"
     },
     {
-      "OrderDate": "6/25/2016",
-      "Rep": "Morgan",
-      "Item": "Pencil",
-      "Units": "90",
-      "UnitCost": "4.99",
-      "Total": "449.10"
+      "orderdate": "6/25/2016",
+      "rep": "Morgan",
+      "item": "Pencil",
+      "units": "90",
+      "unitcost": "4.99",
+      "total": "449.10"
     },
     {
-      "OrderDate": "7/12/2016",
-      "Rep": "Howard",
-      "Item": "Binder",
-      "Units": "29",
-      "UnitCost": "1.99",
-      "Total": "57.71"
+      "orderdate": "7/12/2016",
+      "rep": "Howard",
+      "item": "Binder",
+      "units": "29",
+      "unitcost": "1.99",
+      "total": "57.71"
     },
     {
-      "OrderDate": "7/29/2016",
-      "Rep": "Parent",
-      "Item": "Binder",
-      "Units": "81",
-      "UnitCost": "19.99",
-      "Total": "1,619.19"
+      "orderdate": "7/29/2016",
+      "rep": "Parent",
+      "item": "Binder",
+      "units": "81",
+      "unitcost": "19.99",
+      "total": "1,619.19"
     },
     {
-      "OrderDate": "8/15/2016",
-      "Rep": " Jones ",
-      "Item": " Pencil ",
-      "Units": "35",
-      "UnitCost": "4.99",
-      "Total": "174.65"
+      "orderdate": "8/15/2016",
+      "rep": " Jones ",
+      "item": " Pencil ",
+      "units": "35",
+      "unitcost": "4.99",
+      "total": "174.65"
     },
     {
-      "OrderDate": "9/1/2016",
-      "Rep": "Smith",
-      "Item": "Desk",
-      "Units": "2",
-      "UnitCost": "125.00",
-      "Total": "250.00"
+      "orderdate": "9/1/2016",
+      "rep": "Smith",
+      "item": "Desk",
+      "units": "2",
+      "unitcost": "125.00",
+      "total": "250.00"
     }
   ]
 }

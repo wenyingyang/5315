@@ -10,21 +10,21 @@
     <table id="empTable" class="display" width="100%" cellspacing="0">
         <thead>
             <tr>
-                <th>OrderDate</th>
+                <th>Order Date</th>
                 <th>Rep</th>
                 <th>Item</th>
                 <th>Units</th>
-                <th>UnitCost</th>
+                <th>Unit Cost</th>
                 <th>Total</th>
             </tr>
         </thead>
         <tfoot>
             <tr>
-                <th>OrderDate</th>
+                <th>Order Date</th>
                 <th>Rep</th>
                 <th>Item</th>
                 <th>Units</th>
-                <th>UnitCost</th>
+                <th>Unit Cost</th>
                 <th>Total</th>
             </tr>
         </tfoot>
@@ -40,12 +40,12 @@
         $('#empTable').dataTable({
             "ajax": "empdata.json",
             "columns": [
-                {"data": "OrderDate"},
-                {"data": "Rep"},
-                {"data": "Item"},
-                {"data": "Units"},
-                {"data": "UnitCost"}
-                {"data": "Total"}
+                {"data": "orderdate"},
+                {"data": "rep"},
+                {"data": "item"},
+                {"data": "units"},
+                {"data": "unitcost"}
+                {"data": "total"}
             ]
         });   
     });
