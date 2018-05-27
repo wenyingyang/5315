@@ -18,12 +18,13 @@
             success: function(xml) {  
              $(xml).find('data').each(function(){  
               t.row.add( [
-                $(this).find('name').text(),
-                $(this).find('designation').text(),
-                $(this).find('office').text(),
-                $(this).find('extension').text(),
-                $(this).find('joining_date').text(),
-                $(this).find('salary').text()
+                $(this).find('OrderDate').text(),
+                $(this).find('Region').text(),
+                $(this).find('Rep').text(),
+                $(this).find('Item').text(),
+                $(this).find('Units').text(),
+                $(this).find('UnitCost').text()
+                $(this).find('Total').text()
               ] ).draw( false );
              });
             }
@@ -36,23 +37,25 @@
   <table id="chart" class="display" cellspacing="0" width="100%">
     <thead>
         <tr>
-            <th>Name</th>
-            <th>Designation</th>
-            <th>Office</th>
-            <th>Extension</th>
-            <th>Joining Date</th>
-            <th>Salary</th>
+              <th>OrderDate</th>
+              <th>Region</th>
+              <th>Rep</th>
+              <th>Item</th>
+              <th>Units</th>
+              <th>UnitCost</th>
+              <th>Total</th>
         </tr>
     </thead>
 
     <tfoot>
         <tr>
-            <th>Name</th>
-            <th>Designation</th>
-            <th>Office</th>
-            <th>Extension</th>
-            <th>Joining Date</th>
-            <th>Salary</th>
+              <th>OrderDate</th>
+              <th>Region</th>
+              <th>Rep</th>
+              <th>Item</th>
+              <th>Units</th>
+              <th>UnitCost</th>
+              <th>Total</th>
         </tr>
     </tfoot>
   </table>

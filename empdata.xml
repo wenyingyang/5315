@@ -4,7 +4,7 @@
       <OrderDate>1/6/2016</OrderDate>
       <Region>East</Region>
       <Rep>Jone</Rep>
-      <item>Pencil</item>
+      <Item>Pencil</item>
       <Units>95</Units>
       <UnitCost>1.99</UnitCost>
       <Total>189.05</Total>
@@ -13,7 +13,7 @@
       <OrderDate>1/23/2016</OrderDate>
       <Region>Central</Region>
       <Rep>Kivell</Rep>
-      <item>Binder</item>
+      <Item>Binder</Item>
       <Units>50</Units>
       <UnitCost>19.99</UnitCost>
       <Total>999.50</Total>
@@ -22,7 +22,7 @@
       <OrderDate>2/9/2016</OrderDate>
       <Region>Central</Region>
       <Rep>Jardine</Rep>
-      <item>Pencil</item>
+      <Item>Pencil</Item>
       <Units>36</Units>
       <UnitCost>4.99</UnitCost>
       <Total>179.64</Total>
@@ -31,7 +31,7 @@
       <OrderDate>2/26/2016</OrderDate>
       <Region>Central</Region>
       <Rep>Gill</Rep>
-      <item>Pen</item>
+      <Item>Pen</Item>
       <Units>27</Units>
       <UnitCost>19.99</UnitCost>
       <Total>539.73</Total>
@@ -40,7 +40,7 @@
       <OrderDate>3/15/2016</OrderDate>
       <Region>West</Region>
       <Rep>Sorvino</Rep>
-      <item>Pencil</item>
+      <Item>Pencil</Item>
       <Units>56</Units>
       <UnitCost>2.99</UnitCost>
       <Total>167.44</Total>
@@ -49,7 +49,7 @@
       <OrderDate>4/1/2016</OrderDate>
       <Region>East</Region>
       <Rep>Jones</Rep>
-      <item>Binder</item>
+      <Item>Binder</Item>
       <Units>60</Units>
       <UnitCost>4.99</UnitCost>
       <Total>299.40</Total>
@@ -58,7 +58,7 @@
       <OrderDate>4/18/2016</OrderDate>
       <Region>Central</Region>
       <Rep>Andrews</Rep>
-      <item>Pencil</item>
+      <Item>Pencil</Item>
       <Units>75</Units>
       <UnitCost>1.99</UnitCost>
       <Total>149.25</Total>
@@ -67,7 +67,7 @@
       <OrderDate>5/5/2016</OrderDate>
       <Region>Central</Region>
       <Rep>Jardine</Rep>
-      <item>Pencil</item>
+      <Item>Pencil</Item>
       <Units>90</Units>
       <UnitCost>4.99</UnitCost>
       <Total>449.10</Total>
@@ -76,7 +76,7 @@
       <OrderDate>5/22/2016</OrderDate>
       <Region>West</Region>
       <Rep>Thompson</Rep>
-      <item>Pencil</item>
+      <Item>Pencil</Item>
       <Units>32</Units>
       <UnitCost>1.99</UnitCost>
       <Total>63.68</Total>
@@ -85,7 +85,7 @@
       <OrderDate>6/8/2016</OrderDate>
       <Region>East</Region>
       <Rep>Jones</Rep>
-      <item>Binder</item>
+      <Item>Binder</Item>
       <Units>60</Units>
       <UnitCost>8.99</UnitCost>
       <Total>539.40</Total>
@@ -94,7 +94,7 @@
       <OrderDate>6/25/2016</OrderDate>
       <Region>Central</Region>
       <Rep>Morgan</Rep>
-      <item>Pencil</item>
+      <Item>Pencil</Item>
       <Units>90</Units>
       <UnitCost>4.99</UnitCost>
       <Total>449.10</Total>
@@ -103,7 +103,7 @@
       <OrderDate>7/12/2016</OrderDate>
       <Region>East</Region>
       <Rep>Howard</Rep>
-      <item>Binder</item>
+      <Item>Binder</Item>
       <Units>29</Units>
       <UnitCost>1.99</UnitCost>
       <Total>57.71</Total>
@@ -112,7 +112,7 @@
       <OrderDate>7/29/2016</OrderDate>
       <Region>East</Region>
       <Rep>Parent</Rep>
-      <item>Binder</item>
+      <Item>Binder</Item>
       <Units>81</Units>
       <UnitCost>19.99</UnitCost>
       <Total>1,619.19</Total>
@@ -121,7 +121,7 @@
       <OrderDate>8/15/2016</OrderDate>
       <Region>East</Region>
       <Rep>Jones</Rep>
-      <item>Pencil</item>
+      <Item>Pencil</Item>
       <Units>35</Units>
       <UnitCost>4.99</UnitCost>
       <Total>174.65</Total>
@@ -130,7 +130,7 @@
       <OrderDate>9/1/2016</OrderDate>
       <Region>Central</Region>
       <Rep>Smith</Rep>
-      <item>Desk</item>
+      <Item>Desk</Item>
       <Units>2</Units>
       <UnitCost>125.00</UnitCost>
       <Total>250.00</Total>
