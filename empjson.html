@@ -38,6 +38,7 @@
     <script type="text/javascript">
     $(document).ready(function() {
         $('#empTable').dataTable({
+            "processing": true, 
             "ajax": "5315/empdata.js",
             "columns": [
                 {"data": "orderdate"},
