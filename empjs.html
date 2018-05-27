@@ -7,7 +7,7 @@
     <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.9/css/jquery.dataTables.min.css">
 </head>
 <body>
-    <table id="empTable" class="display" width="100%" cellspacing="0">
+    <table id="emptable" class="display" width="100%" cellspacing="0">
         <thead>
             <tr>
                 <th>Order Date</th>
@@ -37,8 +37,8 @@
     
     <script type="text/javascript">
     $(document).ready(function() {
-        $('#empTable').dataTable({ 
-            "ajax": "empdata.js",
+        $('#emptable').dataTable({ 
+            "ajax": "data.js",
             "columns": [
                 {"data": "orderdate"},
                 {"data": "rep"},
