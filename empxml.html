@@ -18,13 +18,13 @@
             success: function(xml) {  
              $(xml).find('data').each(function(){  
               t.row.add( [
-                $(this).find('OrderDate').text(),
-                $(this).find('Region').text(),
-                $(this).find('Rep').text(),
-                $(this).find('Item').text(),
-                $(this).find('Units').text(),
-                $(this).find('UnitCost').text()
-                $(this).find('Total').text()
+                var OrderDate = $(this).find('OrderDate').text(),
+                var Region = $(this).find('Region').text(),
+                var Rep = $(this).find('Rep').text(),
+                var Item = $(this).find('Item').text(),
+                var Units = $(this).find('Units').text(),
+                var UnitCost = $(this).find('UnitCost').text()
+                var Total = $(this).find('Total').text()
               ] ).draw( false );
              });
             }
