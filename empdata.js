@@ -92,7 +92,7 @@
     },
     {
       "Order Date": "6/8/2016",
-      "Region": "Eest",
+      "Region": "East",
       "Rep": "Jones",
       "Item": "Binder",
       "Units": "60",
