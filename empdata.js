@@ -6,7 +6,7 @@
       "Rep": "Jones",
       "Item": " Pencil",
       "Units": "95",
-      "UnitCost": "1.99"
+      "UnitCost": "1.99",
       "Total": "189.05"
 
     },
@@ -16,7 +16,7 @@
       "Rep": "Kivell",
       "Item": "Binder",
       "Units": "50",
-      "UnitCost": "19.99"
+      "UnitCost": "19.99",
       "Total": "999.50"
 
     },
@@ -26,7 +26,7 @@
       "Rep": "Jardine",
       "Item": "Pencil",
       "Units": "36",
-      "UnitCost": "4.99"
+      "UnitCost": "4.99",
       "Total": "179.64"
 
     },
@@ -36,7 +36,7 @@
       "Rep": "Gill",
       "Item": "Pen",
       "Units": "27",
-      "UnitCost": "19.99"
+      "UnitCost": "19.99",
       "Total": "539.73"
 
     },
@@ -46,7 +46,7 @@
       "Rep": "Sorvino",
       "Item": "Pencil",
       "Units": "56",
-      "UnitCost": "2.99"
+      "UnitCost": "2.99",
       "Total": "167.44"
 
     },
@@ -56,7 +56,7 @@
       "Rep": "Jones",
       "Item": "Binder",
       "Units": "60",
-      "UnitCost": "4.99"
+      "UnitCost": "4.99",
       "Total": "299.40"
 
     },
@@ -66,7 +66,7 @@
       "Rep": "Jardine",
       "Item": "Pencil",
       "Units": "90",
-      "UnitCost": "4.99"
+      "UnitCost": "4.99",
       "Total": "449.10"
 
     },
@@ -76,7 +76,7 @@
       "Rep": "Andrews",
       "Item": "Pencil",
       "Units": "75",
-      "UnitCost": "1.99"
+      "UnitCost": "1.99",
       "Total": "149.25"
 
     },
@@ -86,7 +86,7 @@
       "Rep": "Thompson",
       "Item": "Pencil",
       "Units": "32",
-      "UnitCost": "1.99"
+      "UnitCost": "1.99",
       "Total": "63.68"
 
     },
@@ -96,7 +96,7 @@
       "Rep": "Jones",
       "Item": "Binder",
       "Units": "60",
-      "UnitCost": "8.99"
+      "UnitCost": "8.99",
       "Total": "539.40"
 
     },
@@ -106,7 +106,7 @@
       "Rep": "Morgan",
       "Item": "Pencil",
       "Units": "90",
-      "UnitCost": "4.99"
+      "UnitCost": "4.99",
       "Total": "449.10"
 
     },
@@ -116,7 +116,7 @@
       "Rep": "Howard",
       "Item": "Binder",
       "Units": "29",
-      "UnitCost": "1.99"
+      "UnitCost": "1.99",
       "Total": "57.71"
 
     },
@@ -126,7 +126,7 @@
       "Rep": "Parent",
       "Item": "Binder",
       "Units": "81",
-      "UnitCost": "19.99"
+      "UnitCost": "19.99",
       "Total": "1,619.19"
 
     },
@@ -136,7 +136,7 @@
       "Rep": " Jones ",
       "Item": " Pencil ",
       "Units": "35",
-      "UnitCost": "4.99"
+      "UnitCost": "4.99",
       "Total": "174.65"
 
     },
@@ -146,7 +146,7 @@
       "Rep": "Smith",
       "Item": "Desk",
       "Units": "2",
-      "UnitCost": "125.00"
+      "UnitCost": "125.00",
       "Total": "250.00"
 
     }
